@@ -1,9 +1,10 @@
 #ABOUT:
-#This is a react webb app to demonstrate google custom search API.
-#Front end part has been developed using React.js, yarn, axios, bootstrap.
-#Backend part has been developed using Node.js, Express.js, axios, NodeMon, cors.
-------------------------------------------------------------------------------------
+1. This is a react webb app to demonstrate google custom search API.
+2. Front end part has been developed using React.js, yarn, axios, bootstrap.
+3. Backend part has been developed using Node.js, Express.js, axios, NodeMon, cors.
+
 #HOW TO INSTALL APP:
+
 #Frontend:
 1. create a new react application using yarn or npm(this application is created using yarn using yarn create react-app appName).
 2. install axios using cammand "yarn add axios".
